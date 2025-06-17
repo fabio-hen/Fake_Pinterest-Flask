@@ -40,22 +40,24 @@ fakepinterest/
 
 # Como Executar o Projeto
 1. Clone o repositório:
-
+```
 git clone https://github.com/seuusuario/fakepinterest.git
 cd fakepinterest
-
+```
 2. Crie e ative o ambiente virtual:
-
+```
 python -m venv venv
 venv\Scripts\activate  # Windows
 source venv/bin/activate  # macOS/Linux
-
+```
 3. Instale as dependências:
+```
 pip install -r requirements.txt
-
+```
 4. Execute o projeto:
-
+```
 python app.py
+```
 
 # Exemplos de Uso
 - Página Inicial: login com formulário integrado
