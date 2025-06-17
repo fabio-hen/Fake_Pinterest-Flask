@@ -65,6 +65,12 @@ python app.py
 - Perfil: upload de imagens visíveis apenas ao usuário logado
 - Feed: galeria pública com todas as fotos
 
+# Imagens do Projeto
+![alt text](image.png)
+![alt text](image-3.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
 # Aprendizados
 Durante o desenvolvimento deste projeto, foi possível:
 - Trabalhar com autenticação usando Flask-Login
