@@ -20,12 +20,13 @@ Este é um projeto de estudo desenvolvido com Flask que simula o funcionamento b
 - HTML/CSS
 
 # Estrutura do Projeto
+```
 fakepinterest/
 ├── routes.py                  # Arquivo principal com as rotas
 ├── models.py                  # Definição das classes Usuario e Foto
 ├── forms.py                   # Formulários com validação
 ├── templates/                 # Templates HTML
-    ├── navbar.html
+│    ├── navbar.html
 │   ├── homepage.html
 │   ├── criarconta.html
 │   ├── perfil.html
@@ -35,6 +36,7 @@ fakepinterest/
 │   └── fotos_posts/           # Imagens enviadas
 ├── database.db                # Banco de dados SQLite
 └── README.md
+```
 
 # Como Executar o Projeto
 1. Clone o repositório:
